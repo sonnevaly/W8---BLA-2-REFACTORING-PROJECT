@@ -1,4 +1,4 @@
-import '../../../data/dummy_data.dart';
+import '../../dummy_data.dart';
 import '../../../model/ride_pref/ride_pref.dart';
 import 'ride_preference_repository.dart';
 

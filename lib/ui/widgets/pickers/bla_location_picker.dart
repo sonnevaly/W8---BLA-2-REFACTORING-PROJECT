@@ -1,5 +1,5 @@
 import 'package:provider/provider.dart';
-import '../../../data/respositories/location/location_repository.dart';
+import '../../../data/repositories/location/location_repository.dart';
 import 'package:blabla/ui/widgets/display/bla_divider.dart';
 import 'package:flutter/material.dart';
 
